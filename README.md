@@ -60,7 +60,7 @@ The Abyss (a simple sea related game): https://github.com/WerdoxDev/The-Abyss
 
 Chat-Tokio (a console chat app written in rust): https://github.com/WerdoxDev/chat-tokio
 
-Dakal (a student management app which): https://github.com/WerdoxDev/dakal
+Dakal (a student management app): https://github.com/WerdoxDev/dakal
 
 Skyblade Launcher (an old attempt to create a desktop launcher for our game development team): https://github.com/WerdoxDev/skyblade-launcher
 
