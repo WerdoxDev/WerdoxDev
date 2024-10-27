@@ -8,11 +8,10 @@ A very early Chat Application inspired by discord. A lot of work is done on the 
 
 The name is from one of Odin's crows which means _"Thoughts"_
 
-The API is open-source and you can check it out here: https://github.com/WerdoxDev/huginn-api.
-
-However the back-end and front-end are very early and closed-source but I will consider open sourcing when It's ready
+The whole project is open-source and you can check it out here: https://github.com/WerdoxDev/huginn.
 
 <img width="800" src="https://github.com/WerdoxDev/WerdoxDev/blob/master/Screenshot%202023-12-18%20163132.png" />
+_old image. need to update_
 
 ### Holloween Night Shift
 This is a arcade PC game made with unity about a farmer who is fighting against ghosts to save Holloween!
