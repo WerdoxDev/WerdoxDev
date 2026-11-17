@@ -4,14 +4,15 @@ I'm Matin Tat and here is where you can see what I'm working on or what I've don
 ## My Projects
 My Projects are listed here from the most recent
 ### Huginn
-A very early Chat Application inspired by discord. A lot of work is done on the back-end and API but the front-end is still very early.
+A Chat Application inspired by discord and north mythology. Designed to be a new home for people who need a bit of taste in their everyday life, but also functionality like we are all used to.
 
 The name is from one of Odin's crows which means _"Thoughts"_
 
 The whole project is open-source and you can check it out here: https://github.com/WerdoxDev/huginn.
+Website is at: https://huginn.dev
 
-<img width="800" src="https://github.com/WerdoxDev/WerdoxDev/blob/master/Screenshot%202023-12-18%20163132.png" />
-_old image. need to update_
+<img width="1713" height="986" alt="image" src="https://github.com/user-attachments/assets/597bedba-5b40-40b1-904f-f9e1c809ace5" />
+
 
 ### Holloween Night Shift
 This is a arcade PC game made with unity about a farmer who is fighting against ghosts to save Holloween!
